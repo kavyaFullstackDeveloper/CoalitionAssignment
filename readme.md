@@ -1,0 +1,1 @@
+to creacte a new project of designing a page refering from psd file and to create same as that file with the code using html,
